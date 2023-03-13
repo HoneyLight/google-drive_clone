@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+}
+body{
+    height: 3000px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.sbw{
+    justify-content: space-between;
+}
+.navbar{
+    height: 55px;
+    box-shadow: 2px 3px 3px gainsboro;
+    width: 100%;
+    position: fixed;
+    background-color: #fff;
+}
+.nav1-links{
+    margin-left: 20px;
+}
+.nav1-links a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    font-size: 14px;
+}
+.nav1-img{
+    width: 20%;
+    margin-left: 30px;
+    margin-top: 8px;
+}
+.nav1-img img{
+    width: 100%;
+}
+.nav2{
+    margin-right: 10px;
+}
+.nav2 button,
+.btn button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
+.more,
+.sign-in{
+    border: none;
+    background-color: #fff;
+}
+.more:hover,
+.sign-in:hover{
+    background-color: whitesmoke;
+}
+.sign-in{
+    color: #1a73e8;
+}
+.drive{
+    color: #1a73e8;
+    background-color: #fff;
+    border: 1px solid gainsboro;
+    border-radius: 4px;
+}
+.try{
+    background-color: #1a73e8;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+
+
