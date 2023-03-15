@@ -68,4 +68,256 @@ body{
     border-radius: 4px;
 }
 
+/* section1 */
+.section1{
+    padding-top: 150px;
+    width: 90%;
+    margin: auto;
+    border-bottom: 1px solid gainsboro;
+}
+.section1-txt{
+    width: 35%;
+}
+.section1-txt h2{
+    font-size: 60px;
+    font-weight: 300;
+    padding-bottom: 15px;
+}
+.section1-txt p{
+    font-size: 20px;
+    color: gray;
+    padding-bottom: 20px;
+}
+.btn{
+    padding-bottom: 15px;
+    font-size: 16px;
+}
+.btn .drive{
+    margin-left: 10px;
+}
+.section1-img{
+    width: 50%;
+}
+.section1-img img{
+    width: 100%;
+}
+.sign-up{
+    padding: 10px 15px;
+    border: none;
+    background-color: #fff;
+    color: #1a73e8;
+    border-radius: 4px;
+}
+.sign-up:hover{
+    background-color: gainsboro;
+}
+.links p{
+    padding-top: 17px;
+}
+/* see */
+.see{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    padding-top: 2rem;
+}
+.see a{
+    text-decoration: none;
+    color: rgb(28, 27, 27);
+    font-size: 18px;
+}
+/* section2 */
+.section2{
+    padding-top: 150px;
+    width: 80%;
+    margin: auto;
+}
+.section2-img{
+    width: 45%;
+}
+.section2-img img{
+    width: 100%;
+}
+.section2-txt{
+    width: 45%;
+}
+.section2-txt h2{
+    font-size: 40px;
+    font-weight: 300;
+    padding-bottom: 15px;
+}
+.section2-txt p{
+    font-size: 20px;
+    color: gray;
+    padding-bottom: 20px;
+}
+
+/* section3 */
+.section3{
+    padding-top: 150px;
+    width: 90%;
+    margin: auto;
+}
+.section3-txt{
+    width: 40%;
+}
+.section3-txt h2{
+    font-size: 40px;
+    font-weight: 300;
+    padding-bottom: 15px;
+}
+.section3-txt p{
+    font-size: 20px;
+    color: gray;
+    padding-bottom: 20px;
+}
+.section3-img{
+    width: 55%;
+}
+.section3-img img{
+    width: 100%;
+}
+
+/* section4 */
+.section4{
+    padding-top: 150px;
+    width: 90%;
+    margin: auto;
+}
+.section4-img{
+    width: 48%;
+}
+.section4-img img{
+    width: 100%;
+}
+.section4-txt{
+    width: 48%;
+}
+.section4-txt h2{
+    font-size: 40px;
+    font-weight: 300;
+    padding-bottom: 15px;
+}
+.section4-txt p{
+    font-size: 20px;
+    color: gray;
+    padding-bottom: 20px;
+}
+
+
+/* section5 */
+.section5{
+    padding-top: 150px;
+    width: 90%;
+    margin: auto;
+}
+.section5-txt{
+    width: 45%;
+}
+.section5-txt h2{
+    font-size: 40px;
+    font-weight: 300;
+    padding-bottom: 15px;
+}
+.section5-txt p{
+    font-size: 20px;
+    color: gray;
+    padding-bottom: 20px;
+}
+.section5-img{
+    width: 45%;
+}
+.section5-img img{
+    width: 100%;
+}
+
+/* section6 */
+.section6{
+    height: 790px;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    border-radius: 3px;
+    margin-top: 4rem;
+    background-color: #F8F9FA;
+}
+.section6 h2{
+    font-size: 50px;
+    margin-bottom: 6rem;
+}
+.section6a{
+    height: 380px;
+    width: 80%;
+    margin: auto;
+    padding-top: 3rem;
+}
+.section6b{
+    height: 250px;
+    width: 99.9%;
+    margin: auto;
+    text-align: center;
+    box-shadow: .1px 0 .7px 0;
+    border-radius: 3px;
+    background-color: #fff;
+    line-height: 2;
+    padding-top: 3rem;
+}
+.section6b a{
+    text-decoration: none;
+    font-size: 17px;
+}
+.section6b p{
+    font-size: 24px;
+}
+
+/* section7*/
+.section7{
+    height: 380px;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    padding-top: 4rem;
+}
+.section7 h3{
+    font-size: 40px;
+    margin-bottom: 4rem;   
+}
+.section7 .section7_{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 6px;
+}
+.section7 .section7_ div{
+    border: 1px solid whitesmoke;
+}
+.section7 .section7_ div:hover{
+    box-shadow: 1px 0 9px 0px gainsboro;
+    border-radius: 4px;
+    border: none;
+}
+
+/* section8 */
+.section8{
+    height: 250px;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    line-height: 2;
+}
+.section8 h3{
+    font-size: 40px;
+}
+.section8 p{
+    font-size: 19px;
+    color: rgb(128, 120, 120);
+}
+.section8 .section8_{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+.section8 figcaption{
+    color: rgb(128, 120, 120);
+}
 
