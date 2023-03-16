@@ -321,3 +321,136 @@ body{
     color: rgb(128, 120, 120);
 }
 
+/* section9 */
+.section9{
+    height: 1000px;
+}
+table {
+    width: 90%;
+    margin: auto;
+    border:1px solid black;
+    border-left: none;
+}
+td {
+    border:1px solid black;
+    padding: 1rem .5rem;
+}
+
+/* section10 */
+.section10{
+    height: 350px;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    line-height: 2;
+    border-bottom: 1px solid gainsboro;
+}
+.section10 h3{
+    font-size: 40px;
+}
+.section10 p{
+    width: 70%;
+    margin: auto;
+    font-size: 19px;
+    color: rgb(128, 120, 120);
+}
+.section10 a{
+    text-decoration: none;
+    font-size: 19px;
+}
+
+/* section11 */
+.section11{
+    height: 300px;
+    width: 90%;
+    margin: auto;
+    background-image: url(./img/bg_drive_.png);
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: 25% 100%;
+}
+.section11 .section11_{
+    padding-top: 3rem;
+    text-align: center;
+    line-height: 2;
+}
+.section11 h3{
+    font-size: 40px;
+}
+.section11 .btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.section11 .btn1{
+    background-color: #1a73e8;
+    color: white;
+    border-radius: 4px;
+    font-size: 17px;
+    border: none;
+}
+.section11 .btn1:hover{
+    background-color: #2464b8;
+    color: white;
+}
+.section11 .btn2{
+    background-color: white;
+    color: #1a73e8;
+    border-color: rgb(252, 249, 249);
+    border-radius: 4px;
+    font-size: 17px;
+}
+.section11 .btn2:hover{
+    background-color: rgb(241, 249, 251);
+    color: #1c5fb6;
+    border-color: #1a73e8;
+}
+
+/* footer */
+.footer{
+    height: 220px;
+    background-color: whitesmoke;
+    font-size: 19px;
+}
+.footer_{
+    width: 90%;
+    margin: auto;
+}
+.footer1 a{
+    text-decoration: none;
+}
+.footer1 img{
+    padding-left: 1rem;
+}
+.footer1{
+    height: 100px;
+    align-items: center;
+    gap: 2rem;
+    border-bottom: 1px solid gainsboro;
+}
+.footer2{
+    height: 120px;
+    align-items: center;
+}
+.footer2 a{
+    text-decoration: none;
+    color: rgb(111, 109, 109);
+    font-size: 17px;
+    padding-left: 8px;
+}
+.footer2 a:hover{
+    color: black;
+}
+.footer2 .google{
+    font-size: 22px;
+}
+.footer2 .footer2a{
+    gap: 1.4rem;
+}
+.footer2b{
+    gap: 4rem;
+}
+.footer2b .help{
+    gap: 2rem;
+}
